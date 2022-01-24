@@ -19,7 +19,7 @@ fetch("https://raw.githubusercontent.com/dharmeshkumar1409/quizizz-cheat/master/
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
-3. You can now close the console. The good answers should be highlighted by background opacity.
+3. You can now close the console. The correct answers should be highlighted by background opacity.
 
 ## Sending answers as someone else
 
